@@ -11,6 +11,7 @@ Upload the folder on Jupyter and open the code 'MLCybersecLab4.ipynb' from this 
 If you are using Google Colab, upload the models and datasets to your drive and then mount the drive to the colab notebook using the following code:
 
 from google.colab import drive
+
 drive.mount('/content/drive')
 
 We are all set to run the whole code now on any environment.
